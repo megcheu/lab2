@@ -5,7 +5,16 @@ This research delves into the content landscapes of Chiefs football and T1 Espor
 
 ## Search Parameters
 https://www.youtube.com/results?search_query=T1+esports
+
+> search_terms_chiefs = ["Chiefs football Super Bowl highlights",
+                       "Kansas City Chiefs game analysis",
+                       "Chiefs football 2023 season predictions"]
+
+
 https://www.youtube.com/results?search_query=chiefs+football
+> search_terms_t1 = ["T1 Esports championship match",
+                   "T1 Esports player interviews",
+                   "T1 Esports behind the scenes documentary"]
 
 ## Why This Comparison?
 The choice to compare Chiefs football and T1 Esports stems from their recent championship victories. Exploring the YouTube content related to these wins provides insights into how traditional sports and esports communities express joy and celebrate success on this platform.
